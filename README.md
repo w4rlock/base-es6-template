@@ -3,6 +3,7 @@
 
 ### Installation
 ```bash
+Click on green button "Use this template".
 ```
 
 ### Flow Capabilities
@@ -15,7 +16,7 @@
 - Changelog automation uging standard-version tool. (npm run release:minor)
 
 
-- Unpublish npm module. (npm run unpublish
+- Unpublish npm module. (npm run unpublish)
 ```
 
 ### Fix
