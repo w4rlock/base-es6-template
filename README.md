@@ -3,20 +3,19 @@
 
 ### Installation
 ```bash
-Click on green button "Use this template".
+Click On Green Button "Use this template".
 ```
 
-### Flow Capabilities
+### Features
+- Eslint Config: AirBnB
+- Eslint Plugins: Prettier
+
+- Git Hooks: Husky
+- Pre Commit: lint-staged
+
+- Commit Lint: commitlint
+- Change Log: standard version
 ```yaml
-- Before commit:
-- Check code and autofix common errors.  (npm run precommit)
-- Check commit comment using git hooks using husky.
-
-- Post commit:
-- Changelog automation uging standard-version tool. (npm run release:minor)
-
-
-- Unpublish npm module. (npm run unpublish)
 ```
 
 ### Fix
