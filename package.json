@@ -1,6 +1,6 @@
 {
   "name": "CHANGE_ME_PACKAGE_NAME",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Base template for Node JS projects.",
   "main": "index.js",
   "scripts": {
